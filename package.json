@@ -18,7 +18,7 @@
     "aws-amplify": "^1.1.36",
     "aws-amplify-react": "^2.3.12",
     "aws-amplify-react-native": "^2.1.16",
-    "expo": "^33.0.0",
+    "expo": "^48.0.0",
     "expo-font": "^5.0.1",
     "expo-linear-gradient": "^5.0.1",
     "galio-framework": "^0.5.3",
